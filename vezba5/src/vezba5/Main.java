@@ -13,7 +13,9 @@ public class Main {
   f1.ispis();
   
   
-  System.out.println("kraj programa");
+Reprezentacija srbija = new Reprezentacija("Srbija", f1);
+
+System.out.println(srbija);
   
 	}
 
