@@ -4,6 +4,7 @@ public class Reprezentacija {
 	
 	public String ime;
 	public Fudbaler fudbaler;
+	public int brojtrofeja;
 	public Reprezentacija(String ime, Fudbaler fudbaler) {
 		super();
 		this.ime = ime;
