@@ -10,7 +10,9 @@ public class Main {
   f1.klub = "Mancester";
   
   
-  System.out.println(f1);
+  f1.ispis();
+  
+  
 	}
 
 }

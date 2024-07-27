@@ -10,6 +10,9 @@ public class Fudbaler {
 		return "Fudbaler [ime=" + ime + ", klub=" + klub + "]";
 	}
 	
-	
+	void ispis() {
+		
+		System.out.println("ime fudbalera je " + ime + "trenutno igra " + klub);
+	}
 	
 }
