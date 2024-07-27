@@ -13,6 +13,8 @@ public class Main {
   f1.ispis();
   
   
+  System.out.println("kraj programa");
+  
 	}
 
 }
