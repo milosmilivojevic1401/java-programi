@@ -6,6 +6,7 @@ public class Fudbaler {
 	public String ime;
 	public String klub;
 	public int godine;
+	private boolean ozenjen;
 	@Override
 	public String toString() {
 		return "Fudbaler [ime=" + ime + ", klub=" + klub + "]";
