@@ -5,6 +5,7 @@ public class Fudbaler {
 	
 	public String ime;
 	public String klub;
+	public int godine;
 	@Override
 	public String toString() {
 		return "Fudbaler [ime=" + ime + ", klub=" + klub + "]";
